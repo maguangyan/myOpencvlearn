@@ -1,0 +1,3 @@
+﻿D:\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (8.29.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  图像的显示修改和保存.cpp
+  8.29.vcxproj -> C:\Users\Admin\Desktop\opencv\Project\8.29\x64\Debug\001.图像的显示修改和保存.exe

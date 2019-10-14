@@ -1,0 +1,38 @@
+﻿  021.霍夫变换houghlines.cpp
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:  “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:         and
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:             _Tp=int
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,36): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:  “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:         and
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:             _Tp=int
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,26): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:  “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:         and
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:             _Tp=int
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,63): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:  “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:         and
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:             _Tp=int
+C:\Users\Admin\Desktop\opencv\Project\8.29\021.霍夫变换houghlines\021.霍夫变换houghlines.cpp(45,53): warning C4244:         ]
+  021.霍夫变换houghlines.vcxproj -> C:\Users\Admin\Desktop\opencv\Project\8.29\x64\Debug\021.霍夫变换houghlines.exe

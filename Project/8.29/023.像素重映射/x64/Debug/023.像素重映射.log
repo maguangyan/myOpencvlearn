@@ -1,0 +1,42 @@
+﻿  023.像素重映射.cpp
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(56,35): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(56,35): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(56,35): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(56,35): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(56,35): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(57,35): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(57,35): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(57,35): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(57,35): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(57,35): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(65,49): warning C4244:  “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(65,49): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(65,49): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(65,49): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(65,49): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(66,33): warning C4244:  “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(66,33): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(66,33): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(66,33): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(66,33): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(69,33): warning C4244:  “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(69,33): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(69,33): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(69,33): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(69,33): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(70,49): warning C4244:  “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(70,49): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(70,49): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(70,49): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(70,49): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(73,49): warning C4244:  “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(73,49): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(73,49): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(73,49): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(73,49): warning C4244:         ]
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(74,49): warning C4244:  “=”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(74,49): warning C4244:         with
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(74,49): warning C4244:         [
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(74,49): warning C4244:             _Tp=float
+C:\Users\Admin\Desktop\opencv\Project\8.29\023.像素重映射\023.像素重映射.cpp(74,49): warning C4244:         ]
+  023.像素重映射.vcxproj -> C:\Users\Admin\Desktop\opencv\Project\8.29\x64\Debug\023.像素重映射.exe
